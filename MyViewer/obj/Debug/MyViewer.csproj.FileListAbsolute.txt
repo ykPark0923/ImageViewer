@@ -1,0 +1,16 @@
+C:\devYukY\openCV\ExamViewer\MyViewer\bin\Debug\MyViewer.dll
+C:\devYukY\openCV\ExamViewer\MyViewer\bin\Debug\MyViewer.pdb
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.AssemblyReference.cache
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.UserControl1.resources
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.GenerateResource.cache
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.dll
+C:\devYukY\openCV\ExamViewer\MyViewer\obj\Debug\MyViewer.pdb
+C:\devYukY\openCV\test\MyViewer\bin\Debug\MyViewer.dll
+C:\devYukY\openCV\test\MyViewer\bin\Debug\MyViewer.pdb
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.csproj.AssemblyReference.cache
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.UserControl1.resources
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.csproj.GenerateResource.cache
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.dll
+C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.pdb
