@@ -38,7 +38,7 @@ namespace MyViewer
 
         // 최소 및 최대 줌 제한 값
         private const float MinZoom = 0.05f;
-        private const float MaxZoom = 10.0f;
+        private const float MaxZoom = 200.0f;
 
 
 
@@ -131,7 +131,7 @@ namespace MyViewer
                     Graphics.Clear(Color.Transparent); // 배경을 투명하게 설정
 
                     //이미지 확대or축소때 화질 최적화 방식(Interpolation Mode) 설정                    
-                    Graphics.InterpolationMode = InterpolationMode.HighQualityBicubic;
+                    Graphics.InterpolationMode = InterpolationMode.NearestNeighbor;
                     Graphics.DrawImage(Bitmap, ImageRect);
 
                     /* Interpolation Mode********************************************
