@@ -37,7 +37,7 @@ namespace MyViewer
         private float ZoomFactor = 1.0f;
 
         // 최소 및 최대 줌 제한 값
-        private const float MinZoom = 0.05f;
+        private const float MinZoom = 1f;
         private const float MaxZoom = 200.0f;
 
 
@@ -201,8 +201,15 @@ namespace MyViewer
             float ZoomChange = e.Delta > 0 ? 1.1f : 0.9f; //마우스휠 위로(+) 1.1배,아래로(-) 0.9배 축소
             float NewZoomFactor = ZoomFactor * ZoomChange; //현재줌배율*새로운줌배율
 
-            // 줌이 최소 또는 최대 값을 벗어나지 않도록 제한
-            if (NewZoomFactor < MinZoom || NewZoomFactor > MaxZoom)
+
+            // 줌이 최소 값이면 이미지 정중앙 정렬---------------------------------------------------------
+            if (NewZoomFactor < MinZoom)
+            {
+                return;
+            }
+
+            // 줌이 최대 값을 벗어나지 않도록 제한
+            if (NewZoomFactor > MaxZoom)
                 return;
 
             // 마우스 위치를 기준으로 줌 좌표 변환
