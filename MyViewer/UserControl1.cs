@@ -201,16 +201,23 @@ namespace MyViewer
             float ZoomChange = e.Delta > 0 ? 1.1f : 0.9f; //마우스휠 위로(+) 1.1배,아래로(-) 0.9배 축소
             float NewZoomFactor = ZoomFactor * ZoomChange; //현재줌배율*새로운줌배율
 
-
-            // 줌이 최소 값이면 이미지 정중앙 정렬---------------------------------------------------------
-            if (NewZoomFactor < MinZoom)
-            {
+            // 줌이 최대 값을 벗어나지 않도록 제한
+            if (NewZoomFactor < MinZoom || NewZoomFactor > MaxZoom)
                 return;
+
+
+            //*******************************************************************************************
+            if (ZoomChange < 0 || NewZoomFactor<0.2)
+            {
+                ImageRect = new RectangleF(
+                (ClientSize.Width - ImageRect.Width) / 2,
+                (ClientSize.Height - ImageRect.Height) / 2,
+                ImageRect.Width,
+                ImageRect.Height
+                 );
+
             }
 
-            // 줌이 최대 값을 벗어나지 않도록 제한
-            if (NewZoomFactor > MaxZoom)
-                return;
 
             // 마우스 위치를 기준으로 줌 좌표 변환
             float MouseXRatio = (e.X - ImageRect.X) / ImageRect.Width;
