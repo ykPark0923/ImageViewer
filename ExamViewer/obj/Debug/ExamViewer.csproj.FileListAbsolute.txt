@@ -39,3 +39,16 @@ C:\devYukY\openCV\Git_ExamViewer\ExamViewer\obj\Debug\ExamViewer.csproj.CoreComp
 C:\devYukY\openCV\Git_ExamViewer\ExamViewer\obj\Debug\ExamViewer.csproj.Up2Date
 C:\devYukY\openCV\Git_ExamViewer\ExamViewer\obj\Debug\ExamViewer.exe
 C:\devYukY\openCV\Git_ExamViewer\ExamViewer\obj\Debug\ExamViewer.pdb
+C:\devYK\ImageViewer\ExamViewer\bin\Debug\ExamViewer.exe.config
+C:\devYK\ImageViewer\ExamViewer\bin\Debug\ExamViewer.exe
+C:\devYK\ImageViewer\ExamViewer\bin\Debug\ExamViewer.pdb
+C:\devYK\ImageViewer\ExamViewer\bin\Debug\MyViewer.dll
+C:\devYK\ImageViewer\ExamViewer\bin\Debug\MyViewer.pdb
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.csproj.AssemblyReference.cache
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.Form1.resources
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.Properties.Resources.resources
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.csproj.GenerateResource.cache
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.csproj.CoreCompileInputs.cache
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.csproj.Up2Date
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.exe
+C:\devYK\ImageViewer\ExamViewer\obj\Debug\ExamViewer.pdb

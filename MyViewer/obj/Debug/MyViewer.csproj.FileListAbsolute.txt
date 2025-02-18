@@ -14,3 +14,11 @@ C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.csproj.GenerateResource.cache
 C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
 C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.dll
 C:\devYukY\openCV\test\MyViewer\obj\Debug\MyViewer.pdb
+C:\devYK\ImageViewer\MyViewer\bin\Debug\MyViewer.dll
+C:\devYK\ImageViewer\MyViewer\bin\Debug\MyViewer.pdb
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.csproj.AssemblyReference.cache
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.UserControl1.resources
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.csproj.GenerateResource.cache
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.dll
+C:\devYK\ImageViewer\MyViewer\obj\Debug\MyViewer.pdb
