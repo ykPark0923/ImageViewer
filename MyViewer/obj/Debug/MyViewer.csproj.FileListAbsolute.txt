@@ -30,3 +30,11 @@ C:\Users\user\Desktop\C#\ImageViewer\MyViewer\obj\Debug\MyViewer.csproj.Generate
 C:\Users\user\Desktop\C#\ImageViewer\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\C#\ImageViewer\MyViewer\obj\Debug\MyViewer.dll
 C:\Users\user\Desktop\C#\ImageViewer\MyViewer\obj\Debug\MyViewer.pdb
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\bin\Debug\MyViewer.dll
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\bin\Debug\MyViewer.pdb
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.AssemblyReference.cache
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.UserControl1.resources
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.GenerateResource.cache
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.csproj.CoreCompileInputs.cache
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.dll
+C:\devYukY\openCV\Git_ExamViewer\MyViewer\obj\Debug\MyViewer.pdb
